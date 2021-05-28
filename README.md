@@ -5,7 +5,7 @@ SQL Zoo is one of the few resources online that actually lets you build and run 
 Each tutorial show me a table and then have me run queries against it to answer specific questions. Some of the queries, particularly at first, are quite simple. They definitely get more challenging towards the end and can be real head scratchers.
 
 ### About Zoo Tutorials Project
-- Tutorials 0-9 listed under the “Tutorial Section” and the quizzes listed at the end of each Section was solved and the Query used to get the exact data are contained in the in sql file are as follows:
+- Tutorials 0-9 listed under the [Tutorial Section](https://sqlzoo.net/wiki/SQL_Tutorial) and the quizzes listed at the end of each Section was solved and the Query used to get the exact data are contained in the in sql file are as follows:
 1. [SELECT Basics](https://sqlzoo.net/wiki/SELECT_basics)
   - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
 2. [SELECT from WORLD](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
@@ -25,9 +25,8 @@ Each tutorial show me a table and then have me run queries against it to answer 
 9. [Self Join](https://sqlzoo.net/wiki/Self_join)
   - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
 
-- While in the `zoo_quiz_image` image folder Screenshot of each quiz score
-
-[link to project Solution](https://sqlzoo.net/wiki/SQL_Tutorial)
+##### [link to SQL ZOO Tutorials](https://sqlzoo.net/wiki/SQL_Tutorial)
+##### While in the `zoo_quiz_image` folder you can find Screenshot of each quiz score
 
 ## Objectives
 - To gain more expertise and more comfortable with SQL 
