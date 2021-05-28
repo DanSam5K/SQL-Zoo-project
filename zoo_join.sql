@@ -1,4 +1,4 @@
--- Tutorials SELECT from Nobel solutions Section 6
+-- Tutorials Join solutions Section 6
 --1. Modify it to show the matchid and player name for all goals scored by Germany. To identify German players, check for: teamid = 'GER'
 SELECT matchid, player FROM goal 
   WHERE teamid = 'Ger'
