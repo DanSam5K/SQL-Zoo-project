@@ -7,26 +7,43 @@ Each tutorial show me a table and then have me run queries against it to answer 
 ### About Zoo Tutorials Project
 - Tutorials 0-9 listed under the [Tutorial Section](https://sqlzoo.net/wiki/SQL_Tutorial) and the quizzes listed at the end of each Section was solved and the Query used to get the exact data are contained in the in sql file are as follows:
 1. [SELECT Basics](https://sqlzoo.net/wiki/SELECT_basics)
-  - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
+  - *** [Basic Quiz Score Image](zoo_quiz_image/basicquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/SELECT_Quiz) ***
+
 2. [SELECT from WORLD](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
-  - *** [BBC World Quiz Score](zoo_quiz_image/bbcworldqiuzscore.png) ***
+  - *** [BBC World Quiz Score Image](zoo_quiz_image/bbcworldqiuzscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/BBC_QUIZ) ***
+
 3. [SELECT from Nobel](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
-  - *** [Nobel Quiz Score](zoo_quiz_image/noblequizscore.png) ***
+  - *** [Nobel Quiz Score Image](zoo_quiz_image/noblequizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/Nobel_Quiz) ***
+
 4. [SELECT within SELECT](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
-  - *** [Select Quiz Score](zoo_quiz_image/selectquizscore.png) ***
+  - *** [Select Quiz Score Image](zoo_quiz_image/selectquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/Nested_SELECT_Quiz) ***
+
 5. [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)
-  - *** [Sum&Count Quiz Score](zoo_quiz_image/sumcountquizscore.png) ***
+  - *** [Sum&Count Quiz Score Image](zoo_quiz_image/sumcountquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz) ***
+  
 6. [Join Operations](https://sqlzoo.net/wiki/The_JOIN_operation)
-  - *** [Join Quiz Score](zoo_quiz_image/joinquizscore.png) ***
+  - *** [Join Quiz Score Image](zoo_quiz_image/joinquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/JOIN_Quiz) ***
+
 7. [More Join Operation](https://sqlzoo.net/wiki/More_JOIN_operations)
-  - *** [More Join Quiz Score](zoo_quiz_image/morejoinquizscore.png) ***
+  - *** [More Join Quiz Score Image](zoo_quiz_image/morejoinquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/JOIN_Quiz_2) ***
+
 8. [Using Null](https://sqlzoo.net/wiki/Using_Null)
-  - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
+  - *** [Basic Quiz Score Image](zoo_quiz_image/nullquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/Using_Null_Quiz) ***
+
 9. [Self Join](https://sqlzoo.net/wiki/Self_join)
   - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/BBC_QUIZ) ***
 
-##### [link to SQL ZOO Tutorials](https://sqlzoo.net/wiki/SQL_Tutorial)
-##### While in the `zoo_quiz_image` folder you can find Screenshot of each quiz score
+#### [link to SQL ZOO Tutorials](https://sqlzoo.net/wiki/SQL_Tutorial)
+#### While in the `zoo_quiz_image` folder you can find Screenshot of each quiz score
 
 ## Objectives
 - To gain more expertise and more comfortable with SQL 
