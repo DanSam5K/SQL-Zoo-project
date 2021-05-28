@@ -7,15 +7,23 @@ Each tutorial show me a table and then have me run queries against it to answer 
 ### About Zoo Tutorials Project
 - Tutorials 0-9 listed under the “Tutorial Section” and the quizzes listed at the end of each Section was solved and the Query used to get the exact data are contained in the in sql file are as follows:
 1. [SELECT Basics](https://sqlzoo.net/wiki/SELECT_basics)
-     [Quiz Score](zoo_quiz_image/basicquizscore.png)
+  - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
 2. [SELECT from WORLD](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
+  - *** [BBC World Quiz Score](zoo_quiz_image/bbcworldqiuzscore.png) ***
 3. [SELECT from Nobel](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
+  - *** [Nobel Quiz Score](zoo_quiz_image/noblequizscore.png) ***
 4. [SELECT within SELECT](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
+  - *** [Select Quiz Score](zoo_quiz_image/selectquizscore.png) ***
 5. [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)
+  - *** [Sum&Count Quiz Score](zoo_quiz_image/sumcountquizscore.png) ***
 6. [Join Operations](https://sqlzoo.net/wiki/The_JOIN_operation)
+  - *** [Join Quiz Score](zoo_quiz_image/joinquizscore.png) ***
 7. [More Join Operation](https://sqlzoo.net/wiki/More_JOIN_operations)
+  - *** [More Join Quiz Score](zoo_quiz_image/morejoinquizscore.png) ***
 8. [Using Null](https://sqlzoo.net/wiki/Using_Null)
+  - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
 9. [Self Join](https://sqlzoo.net/wiki/Self_join)
+  - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
 
 - While in the `zoo_quiz_image` image folder Screenshot of each quiz score
 
