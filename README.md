@@ -39,8 +39,8 @@ Each tutorial show me a table and then have me run queries against it to answer 
   - *** [Quiz link](https://sqlzoo.net/wiki/Using_Null_Quiz) ***
 
 9. [Self Join](https://sqlzoo.net/wiki/Self_join)
-  - *** [Basic Quiz Score](zoo_quiz_image/basicquizscore.png) ***
-  - *** [Quiz link](https://sqlzoo.net/wiki/BBC_QUIZ) ***
+  - *** [Basic Quiz Score](zoo_quiz_image/selfjoinquizscore.png) ***
+  - *** [Quiz link](https://sqlzoo.net/wiki/Self_join_Quiz) ***
 
 #### [link to SQL ZOO Tutorials](https://sqlzoo.net/wiki/SQL_Tutorial)
 #### While in the `zoo_quiz_image` folder you can find Screenshot of each quiz score
